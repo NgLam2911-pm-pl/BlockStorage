@@ -1,0 +1,5 @@
+name: BlockStorage
+main: LamPocketVN\BlockStorage\BlockStorage
+version: 0.0.1
+api: 3.9.0
+author: LamPocketVN
